@@ -15,7 +15,7 @@
 <p align='center'> 
   <img width="410"  height="200" src="https://github-readme-stats.vercel.app/api?username=zachjjohns&theme=synthwave&show_icons=true"/>
   
-  <img width="410" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=zachjjohns&theme=synthwave" alt="AndieDrew's Stats" />
+  <img width="410" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=zachjjohns&theme=synthwave" alt="Zachjjohns's Stats" />
 </p>
 
 <h3 > What I'm learning: </h3>
