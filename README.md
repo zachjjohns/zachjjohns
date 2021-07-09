@@ -26,7 +26,7 @@
   <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobexd&logoColor=white&style=for-the-badge"/>
 </p>
 
-<img align="right" height="355" width="355" alt="" src="./assets/skellykitty.gif" />
+<img align="right" height="355" width="355" alt="" src="./skellykitty.gif" />
 
 <h3 > What I know: </h3>
 
