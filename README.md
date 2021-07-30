@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=11F766&lines=Hello+World!+%F0%9F%91%8B+I'm+Zach)](https://git.io/typing-svg)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zachjjohns/)
-
 
 
 ### About me:
@@ -13,9 +11,9 @@
 
 
 <p align='center'> 
-  <img width="410"  height="200" src="https://github-readme-stats.vercel.app/api?username=zachjjohns&theme=synthwave&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zachjjohns&theme=synthwave&show_icons=true"/>
   
-  <img width="410" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=zachjjohns&theme=synthwave" alt="Zachjjohns's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachjjohns&langs_count=5&theme=synthwave&layout=compact"/>
 </p>
 
 <h3 > What I'm learning: </h3>
@@ -67,4 +65,4 @@
 </p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachjjohns&langs_count=5&theme=synthwave&layout=compact"/></p>
+<p align="center"></p>
